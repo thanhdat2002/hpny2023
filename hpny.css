@@ -46,6 +46,18 @@
     padding: 8px 30px;
     display: inline-block;
   }
+  .heading h2 {
+    font-size: 1.6em;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    font-weight: 600;
+    background-color: var(--color-glass);
+    backdrop-filter: blur(12px);
+    box-shadow: var(--color-shadow);
+    padding: 8px 30px;
+    display: inline-block;
+    color: rgb(226, 212, 20);
+  }
   .countdown {
     width: 95vw;
     display: flex;
